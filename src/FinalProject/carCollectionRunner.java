@@ -6,7 +6,7 @@ public class carCollectionRunner {
 	public static void main (String args []) throws IOException{
 		ArrayList <collectionCars> collections = new ArrayList<collectionCars>();
 		collectionCars collection = new collectionCars();
-		Scanner doc = new Scanner(new File("C:/Users/Jensen/git/awayFromSchool-Unit-13-/awayFromSchool-Unit-13-/awayFromSchool-Unit-13-/src/CollectionListProject.txt"));
+		Scanner doc = new Scanner(new File("C:/Users/Jensen/git/awayFromSchool-Unit-13-/awayFromSchool-Unit-13-/awayFromSchool-Unit-13-/src/FinalProject/CollectionListProject.txt"));
 		String line = doc.nextLine();
 		while (!line.equals("*")) {
 			if (line.equals("-") && collection.collectionSize() != 0) {

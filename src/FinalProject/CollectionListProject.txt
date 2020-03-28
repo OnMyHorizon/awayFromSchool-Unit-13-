@@ -1,0 +1,21 @@
+-
+3
+Bugatti Veyron - 4044 254 2.4
+Tesla Model 3 - 4072 162 3.2
+Lamborghini SV Roadster - 3472 217 2.8
+-
+5
+Apollo Intensa Emozione - 2756 208 2.7
+Lamborghini Veneno Roadster - 3278 221 2.8
+Tesla Roadster - 2877 250 1.9
+Pagani Huayra BC Roadster - 2683 210 2.9
+Nissan GTR Nismo - 3865 196 2.5
+*
+
+FORMAT (ANYTHING CAN BE CHANGED, ADDED OR REMOVED, AS LONG AS THE FOLLOWING FORMAT IS MANTAINED)
+
+-
+Number of cars in this collection
+Car Name - Weight Speed Acceleration
+-
+(end list with a * instead of a - if it is the last collection)
