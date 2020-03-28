@@ -5,16 +5,15 @@ package unit13;
 
 import java.util.Arrays;
 import java.util.Scanner;
-import java.io.File;
+import java.io.*;
 import java.io.IOException;
 import static java.lang.System.*;
 import java.io.FileNotFoundException;
 public class WordSortTwoRunner
 {
-	public static void main( String args[] ) throws FileNotFoundException
+	public static void main( String args[] ) throws IOException
 	{
-		
-		Scanner file = new Scanner(new File("C:/Users/Jensen/eclipse-workspace/school/src/unit13/wordsorttwo.dat"));
+		Scanner file = new Scanner(new File("C:/Users/Jensen/git/awayFromSchool-Unit-13-/awayFromSchool-Unit-13-/awayFromSchool-Unit-13-/src/wordsorttwo.dat"));
 		int size = file.nextInt();
 		file.nextLine();
 		for(int i = 0; i<size; i++)
