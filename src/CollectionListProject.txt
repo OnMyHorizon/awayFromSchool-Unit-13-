@@ -17,5 +17,5 @@ FORMAT (ANYTHING CAN BE CHANGED, ADDED OR REMOVED, AS LONG AS THE FOLLOWING FORM
 -
 Number of cars in this collection
 Car Name - Weight Speed Acceleration
--
+- 
 (end list with a * instead of a - if it is the last collection)
