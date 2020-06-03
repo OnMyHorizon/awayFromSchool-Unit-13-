@@ -1,4 +1,4 @@
-package FinalProject;
+package semester1final;
 import java.util.*;
 import java.io.*;
 import static java.lang.System.*;

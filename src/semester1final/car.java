@@ -1,4 +1,4 @@
-package FinalProject;
+package semester1final;
 
 public class car {
 	private int weight, speed;
